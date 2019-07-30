@@ -1,5 +1,5 @@
 Welcome to this page!  
-My name is Rafi and I created this page to share anything about things I learned, explored, and thoughts.  
+My name is Rafi and I created this page to share anything about things I learned, explored, and thought.  
 
 Check them out:
 <ul>
