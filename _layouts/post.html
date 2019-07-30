@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h2>
+    {{ page.title }} ({{ page.date | date: "%B %-d, %Y" }})
+</h2>
+
+{{ content }}
+
+{% if page.tags %}
+<small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small>
+{% endif %}
