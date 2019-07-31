@@ -1,4 +1,4 @@
-## Welcome to this page! :D  
+## Welcome to my journal! :D  
 My name is Rafi and I created this page to share things I have learned and explored.  
 It would be wonderful if they can be beneficial for you!  
 
