@@ -1,5 +1,5 @@
 ---
-title: "My First Post!"
+title: "First Post!"
 tags: [milestone]
 layout: post
 excerpt_separator: <!--more-->
