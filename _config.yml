@@ -1,12 +1,27 @@
 title: rafikurnia's journal
 description: A (hopefully) daily updates!
-logo: /assets/logo.png
-author: rafikurnia
-lang: en-US
 url: https://rafikurnia.com
-theme: jekyll-theme-minimal
+
+author: Rafi Kurnia Putra
+social:
+  name: Rafi Kurnia Putra
+  links:
+    - https://id.linkedin.com/in/rafikurnia
+    - https://github.com/rafikurnia
+
 google_analytics: UA-134664512-2
-image:
-  path: /assets/logo.png
-  height: 230
-  width: 230
+google_site_verification: D1ap7HP6ZAAYNqIuNNwbFpAuUitkVfUi0hM2KqTaadU
+
+theme: jekyll-theme-minimal
+
+lang: en-US
+logo: /assets/img/logo.png
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: 
+        path: /assets/img/logo.png
+        height: 230
+        width: 230
+
