@@ -15,13 +15,12 @@ google_site_verification: D1ap7HP6ZAAYNqIuNNwbFpAuUitkVfUi0hM2KqTaadU
 theme: jekyll-theme-minimal
 
 lang: en-US
-logo: /assets/img/logo.png
+logo: /assets/images/logo.png
 defaults:
   - scope:
       path: ""
     values:
       image: 
-        path: /assets/img/logo.png
-        height: 230
-        width: 230
-
+        path: /assets/images/logo.png
+        height: 280
+        width: 280
