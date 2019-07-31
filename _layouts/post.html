@@ -9,7 +9,7 @@ layout: default
 {{ content }}
 
 {% if page.tags %}
-<small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small><br><br>
+<small>tags: <em>{{ page.tags | array_to_sentence_string: "and" }}</em></small><br><br>
 {% endif %}
 
 <ul class="downloads">
