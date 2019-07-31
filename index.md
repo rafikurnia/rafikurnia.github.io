@@ -3,7 +3,7 @@ title: "rafikurnia's journal"
 layout: default
 ---
 
-## Welcome to this page!
+## Welcome!
 My name is Rafi and I created this page to share things I have learned and explored.  
 It would be wonderful if they can be beneficial for you!  
 
