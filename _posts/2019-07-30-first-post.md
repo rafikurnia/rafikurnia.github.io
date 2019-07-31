@@ -1,5 +1,8 @@
 ---
-tag: [milestone]
+title: "My First Post!"
+tags: [milestone]
+layout: post
+published: true
 ---
 
 Finally...  
