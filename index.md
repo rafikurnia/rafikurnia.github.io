@@ -1,4 +1,9 @@
-## Welcome to my journal! :D  
+---
+title: "rafikurnia's journal"
+layout: default
+---
+
+## Welcome to this page!
 My name is Rafi and I created this page to share things I have learned and explored.  
 It would be wonderful if they can be beneficial for you!  
 
