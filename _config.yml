@@ -1,5 +1,5 @@
 title: rafikurnia's journal
-description: A (hopefully) daily updates!
+description: A (hopefully) daily update!
 url: https://rafikurnia.com
 
 author: Rafi Kurnia Putra
@@ -8,6 +8,7 @@ social:
   links:
     - https://id.linkedin.com/in/rafikurnia
     - https://github.com/rafikurnia
+    - https://hub.docker.com/u/rafikurnia
 
 google_analytics: UA-134664512-2
 google_site_verification: D1ap7HP6ZAAYNqIuNNwbFpAuUitkVfUi0hM2KqTaadU
@@ -22,5 +23,5 @@ defaults:
     values:
       image: 
         path: /assets/images/logo.png
-        height: 280
+        height: 210
         width: 280
