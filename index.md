@@ -5,7 +5,7 @@ layout: default
 
 ## Welcome!
 My name is Rafi and I created this page to share things I have learned and explored.  
-It would be wonderful if they can be beneficial for you!  
+It is wonderful if they can be beneficial for you!  
 
 ## Check them out:
 <ul>
