@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-
 <title>
     {{ site.title | default: site.github.repository_name }}
 </title>
@@ -9,16 +8,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-W74JQVW');</script>
+    <script>
+        (
+            function (w, d, s, l, i) {
+                w[l] = w[l] || []; w[l].push(
+                    {
+                        'gtm.start': new Date().getTime(),
+                        event: 'gtm.js'
+                    }
+                ); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            }
+        )(window, document, 'script', 'dataLayer', 'GTM-W74JQVW');
+    </script>
     <!-- End Google Tag Manager -->
+
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -28,8 +38,10 @@
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W74JQVW" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W74JQVW" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe>
+    </noscript>
     <!-- End Google Tag Manager (noscript) -->
     <div class="wrapper">
         <header>
@@ -38,7 +50,6 @@
                     {{ site.title | default: site.github.repository_name }}
                 </a>
             </h1>
-
             <p>
                 <i>
                     {{ site.description | default: site.github.project_tagline }}
@@ -46,15 +57,11 @@
                 <a class="view" href="{{ site.github.owner_url }}">({{ site.github.owner_url }})</a>
             </p>
         </header>
-
         <hr align="center" width="100%">
-
         <section>
             {{ content }}
         </section>
-
         <hr align="center" width="100%">
-
         <footer>
             <p>
                 <small>
