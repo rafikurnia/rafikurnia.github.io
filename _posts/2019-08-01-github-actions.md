@@ -1,6 +1,6 @@
 ---
 title: "GitHub Actions Part 1 - Introduction"
-tags: [TIL]
+tags: [github-actions]
 layout: post
 excerpt_separator: <!--more-->
 published: true
