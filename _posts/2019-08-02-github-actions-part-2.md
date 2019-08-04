@@ -23,7 +23,7 @@ So I can play around with it and share to you through this post..
 
 So let's continue!
 
-I did playing around with GitHub Actions to automatically add newly created Issue and Pull Request to a [GitHub Project](https://github.com/features/project-management/) board.
+I was playing around with GitHub Actions to automatically add newly created Issue and Pull Request to a [GitHub Project](https://github.com/features/project-management/) board.
 To define the workflow, you can create a `main.workflow` file inside `.github` directory. The directory is in the root.
 
 
