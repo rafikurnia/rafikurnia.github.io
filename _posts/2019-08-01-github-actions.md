@@ -31,4 +31,4 @@ Thanks for reading!
 Will continue in the next post ;)
 
 > Next Posts: 
-> - [GitHub Actions Part 2 - main.workflow (August 2, 2019)](https://rafikurnia.com/2019/08/02/github-actions-part2.html)
+> - [GitHub Actions Part 2 - main.workflow (August 2, 2019)](https://rafikurnia.com/2019/08/02/github-actions-part-2.html)
