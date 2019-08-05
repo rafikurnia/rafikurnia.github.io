@@ -23,8 +23,8 @@ defaults:
     values:
       image: 
         path: /assets/img/logo.png
-        height: 280
-        width: 280
+        height: 320
+        width: 320
 
 exclude:
   - assets/scripts/
