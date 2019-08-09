@@ -45,17 +45,17 @@
     <!-- End Google Tag Manager (noscript) -->
     <div class="wrapper">
         <header>
-            <h1 style=font-size:250%>
+            <h1 style="font-size:250%;margin: 20px 0 20px 0">
                 <a href="{{ "/" | absolute_url }}">
                     {{ site.title | default: site.github.repository_name }}
                 </a>
             </h1>
-            <p style="margin: 20px 0 20px 0">
+            <!-- <p style="margin: 20px 0 20px 0">
                 <i>
                     {{ site.description | default: site.github.project_tagline }}
                 </i>
                 <a class="view" href="{{ site.github.owner_url }}">({{ site.github.owner_url }})</a>
-            </p>
+            </p> -->
         </header>
 
         <!-- <header style="margin: 100px 100px 100px 100px">
@@ -85,7 +85,8 @@
             <p>
                 <small>
                     Hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a> &mdash;
-                    Theme using <a href="https://github.com/pages-themes/minimal">minimal</a>
+                    Theme using <a href="https://github.com/pages-themes/minimal">minimal</a> &mdash;
+                    More <a href="{{absolute_url}}/about.html">about rafikurnia</a>
                 </small>
             </p>
         </footer>

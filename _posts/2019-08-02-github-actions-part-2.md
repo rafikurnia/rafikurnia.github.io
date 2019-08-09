@@ -9,7 +9,7 @@ published: true
 Have you read my first post about GitHub Actions?  
 <!--more-->
 You may want to read that first before reading this page ;)  
-Here it is: [GitHub Actions Part 1 - Introduction (August 1, 2019)](https://rafikurnia.com/2019/08/01/github-actions.html)
+Here it is: [GitHub Actions Part 1 - Introduction (August 1, 2019)]({{absolute_url}}/2019/08/01/github-actions.html)
 
 Before we continue, I forgot to mention in the previous post that by the time I write this page,  
 ***GitHub Actions is still in Beta stage***.
