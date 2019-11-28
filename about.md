@@ -1,7 +1,7 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <div 
-    style="margin:0 20px 20px 0;float:left"
+    style="margin:0 20px 20px 0;float:right"
     class="LI-profile-badge"  
     data-version="v1" 
     data-size="large" 
@@ -16,4 +16,4 @@
 
 ## About me
 
-> Hi! You can click `View profile` button on my LinkedIn badge to know more about me!
+> Hi! To get more information about me, you can click `View profile` button on my LinkedIn badge **&rarr;**

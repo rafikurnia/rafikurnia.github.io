@@ -55,4 +55,5 @@ action "adding the issue to a project" {
 
 If you notice, there are 2 workflows defined there. Also one action for each workflow.
 
-Will continue on the next part ;)
+> Next Posts: 
+> - [GitHub Actions The Last Part - HCL Template is deprecated (November 28, 2019)]({{absolute_url}}/2019/11/28/github-actions-the-last-part.html)

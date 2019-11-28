@@ -1,4 +1,4 @@
-title: rafikurnia's journal
+title: rafikurnia's writing
 description: yes, this is a blog!
 url: https://rafikurnia.com
 
@@ -21,7 +21,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: 
+      image:
         path: /assets/img/logo.png
         height: 320
         width: 320

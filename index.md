@@ -1,19 +1,15 @@
 ---
-title: "rafikurnia's journal"
+title: "rafikurnia's writing"
 layout: default
 ---
 
-## Welcome!
-My name is Rafi and I created this page to write whatever I want to write!  
-It can be something unimportant or (maybe) important..
+## Welcome
+Hi! Thanks for visiting...  
+Here you can read my writings about things.  
+I hope you will find them helpful!
 
-Well, my original intention is to write [#TIL](https://knowyourmeme.com/memes/today-i-learned-til) posts.  
-But sometimes I will probably write some tutorials too.  
 
-Anyway, I want to share anything I have learned and explored through a writing.  
-It is wonderful if they can be beneficial for you!  
-  
-## Check them out:
+## Writings
 <ul style="margin: 20px 0 20px 0">
   {% for post in site.posts %}
     <li>

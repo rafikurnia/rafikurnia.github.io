@@ -1,7 +1,6 @@
 # Welcome!
 
-This is a behind-the-scene of https://rafikurnia.com  
-You can leave any comments by [creating an issue](https://github.com/rafikurnia/rafikurnia.github.io/issues/new)!
+This is a behind-the-scene of https://rafikurnia.com
 
 ## Author
 
