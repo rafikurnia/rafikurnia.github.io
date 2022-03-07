@@ -8,7 +8,8 @@ When I wanted to run the project locally on March 7, 2022, I forgot how to do it
 
 But then I did it:
 ```bash
-sudo gem install bundler:2.0.2
+sudo gem install bundler
+bundle install
 bundle update --bundler
 chmod +x ./assets/scripts/run-locally
 ./assets/scripts/run-locally
