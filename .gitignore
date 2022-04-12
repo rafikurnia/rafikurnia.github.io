@@ -58,3 +58,4 @@ build-iPhoneSimulator/
 .rvmrc
 
 .vscode/
+.DS_Store
